@@ -58,7 +58,7 @@ Estou aberto a novas oportunidades de emprego.
         <g-emoji class="g-emoji" alias="calling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f2.png">📲</g-emoji> Não hesite em me enviar uma mensagem: <g-emoji class="g-emoji" alias="arrow_heading_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2935.png">⤵️
         </g-emoji>
     </p>
-    <!-- instagram --><a href="https://instagram.com/fael.fernands" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <!-- instagram --><a href="https://www.instagram.com/fael.fernands" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <!-- Linkedin --><a href="www.linkedin.com/in/faelfernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <!-- Email --><a href = "mailto:contatofaelfernandes@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
