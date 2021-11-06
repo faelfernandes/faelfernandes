@@ -5,7 +5,7 @@
 </p>
 
 ### Sobre mim
-Meu nome é Rafel Fernandes, tenho 22 anos.
+Meu nome é Rafael Fernandes, tenho 22 anos.
 
 Estou no 4° semestre de Análise desenvolvimento de sistemas na Universidade Estácio e faço cursos de programação entre outras coisas relacionadas a área de TI em paralelo.
 Fui militar durante 3 anos no Exército Brasileiro onde desenvolvia projetos para facilitar e automatizar processos, assim melhorando a produtividade.
