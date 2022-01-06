@@ -51,8 +51,6 @@ Estou aberto a novas oportunidades de emprego.
 
 ##
 
-![Snake animation](https://github.com/faelfernandes/faelfernandes/blob/output/github-contribution-grid-snake.svg)
-
 <div>
     <p>
         <g-emoji class="g-emoji" alias="calling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f2.png">📲</g-emoji> Não hesite em me enviar uma mensagem: <g-emoji class="g-emoji" alias="arrow_heading_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2935.png">⤵️
