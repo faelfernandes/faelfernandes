@@ -18,9 +18,9 @@ Meu nome é Rafael Fernandes, tenho 22 anos. 🇧🇷
 
 Graduando em Análise desenvolvimento de sistemas - Centro Universitário Estácio.
 
-Sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um programador cada vez mais experiente 
-e capacitado para atender as demandas do mercado com maestria, para isso estou sempre me atualizando fazendo cursos de 
-programação e pesquisando assuntos relacionadas a tecnologia em paralelo.
+Sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um programador cada vez mais 
+experiente e capacitado para atender as demandas do mercado com maestria, para isso estou sempre me atualizando 
+fazendo cursos de  programação e pesquisando assuntos relacionadas a tecnologia em paralelo.
 
 Fui militar durante 3 anos no Exército Brasileiro onde desenvolvia projetos para facilitar e automatizar processos,
 assim melhorando a produtividade.
