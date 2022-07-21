@@ -28,10 +28,11 @@ assim melhorando a produtividade.
 
 ##
 
-<p>
-  <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">📌
+<p align="center">  
+  <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">💻
   </g-emoji> Tenho experiência em:
-  <p>
+  <p align="center">  
+   <br>
   <!-- PHP --> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/02914afc1f51d55c8acac01c200a410efd74fffdff325678f6df6c22ae68a7ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/02914afc1f51d55c8acac01c200a410efd74fffdff325678f6df6c22ae68a7ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" style="max-width: 100%;"></a>
 
 <!-- Laravel --> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/316ccceb2c875497ee2197622c2040a241b8afe4ff78ab7cc0161ee2a644b8a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61726176656c2d4646324432303f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/316ccceb2c875497ee2197622c2040a241b8afe4ff78ab7cc0161ee2a644b8a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61726176656c2d4646324432303f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -65,11 +66,11 @@ assim melhorando a produtividade.
 </p>
 
 
-<p>
+<p align="center">  
   <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">📚
-  </g-emoji> Tenho conhecimentos em:
-  <p>
-
+  </g-emoji> Tenho conhecimento:
+  <p align="center">  
+<br>
 
 <!-- NodeJS --> <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;"></a>
 
@@ -86,10 +87,10 @@ assim melhorando a produtividade.
   </p>
 </p>
 
-<hr>
 
-<div>
-    <p>
+
+<div align="center">  
+    <p><br>
         <g-emoji class="g-emoji" alias="calling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f2.png">📲</g-emoji> Não hesite em me enviar uma mensagem: <g-emoji class="g-emoji" alias="arrow_heading_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2935.png">⤵️
         </g-emoji>
     </p>
@@ -100,7 +101,7 @@ assim melhorando a produtividade.
 
 ##
 
-<div >
+<div align="center">  
   <a href="https://github.com/faelfernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faelfernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelfernandes&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
