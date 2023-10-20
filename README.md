@@ -14,9 +14,9 @@
 </h3>
 
 ```
-Meu nome é Rafael Fernandes, tenho 23 anos. 🇧🇷
+Meu nome é Rafael Fernandes, tenho 24 anos. 🇧🇷
 
-Graduando em Análise desenvolvimento de sistemas - Centro Universitário Estácio.
+Formado em Análise desenvolvimento de sistemas - Centro Universitário Estácio.
 
 Sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um programador cada vez mais 
 experiente e capacitado para atender as demandas do mercado com maestria, para isso estou sempre me atualizando 
