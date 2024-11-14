@@ -1,43 +1,36 @@
 ## <a id="user-content--olá-pessoal-" class="anchor" aria-hidden="true" href="#-olá-pessoal-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif"><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" style="max-width: 100%;"></a> Olá pessoal! <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px" style="max-width: 100%;"></a>
 
-  <h4 align="center">
-  
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif" style="max-width: 100%;">
-  
-  <hr>
-  </h4>
-  
-  <h3 align="center">  
-    <br>
-    Sobre mim
-    <br>
-  </h3>
-  
-  ```
-  Olá! 👋
-  
-  Sou Rafael Fernandes, desenvolvedor Full-Stack de 25 anos, formado em Análise 
-  e Desenvolvimento de Sistemas. Tenho experiência no desenvolvimento de 
-  soluções robustas e escaláveis, utilizando stacks como PHP, Laravel, VueJS, 
-  NodeJS, MySQL, entre outras.
-  
-  Ao longo da minha carreira, tive a oportunidade de contribuir para empresas 
-  como Exército Brasileiro, BigBang Digital, Bamaq Consórcio e BTS 
-  Empreendimentos, onde participei de projetos desafiadores, liderando e 
-  colaborando no desenvolvimento de sistemas e aplicativos, sempre com foco em 
-  boas práticas de codificação, performance e entregas ágeis.
-  ```
-  
-  ##
-  
-  <p align="center">  
-    <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">💻
-    </g-emoji> Tenho experiência em:
-    
-    <p align="center">  
-     <br>
-     
-    <!-- PHP --> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a7fff07e5cafec1541292e8ded465ab230075fc069fe23317dbb317b3bbaf65d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/a7fff07e5cafec1541292e8ded465ab230075fc069fe23317dbb317b3bbaf65d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465" alt="PHP" data-canonical-src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" style="max-width: 100%;"></a>
+<h4 align="center">
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif" style="max-width: 100%;">
+
+<hr>
+</h4>
+
+<h3 align="center">
+<br>
+Sobre mim
+<br>
+</h3>
+
+```
+Olá! 👋
+
+Sou Rafael Fernandes, desenvolvedor Full-Stack de 25 anos, formado em Análise e Desenvolvimento de Sistemas. Tenho experiência no desenvolvimento de soluções robustas e escaláveis, utilizando stacks como PHP, Laravel, VueJS, NodeJS, MySQL, entre outras.
+
+Ao longo da minha carreira, tive a oportunidade de contribuir para empresas como Exército Brasileiro, BigBang Digital, Bamaq Consórcio e BTS Empreendimentos, onde participei de projetos desafiadores, liderando e colaborando no desenvolvimento de sistemas e aplicativos, sempre com foco em boas práticas de codificação, performance e entregas ágeis.
+```
+
+##
+
+<p align="center">
+<g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">💻
+</g-emoji> Tenho experiência em:
+
+<p align="center">
+ <br>
+ 
+<!-- PHP --> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a7fff07e5cafec1541292e8ded465ab230075fc069fe23317dbb317b3bbaf65d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/a7fff07e5cafec1541292e8ded465ab230075fc069fe23317dbb317b3bbaf65d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465" alt="PHP" data-canonical-src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" style="max-width: 100%;"></a>
   
   <!-- Laravel --> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b80542ddb7afbc70d9f88eeb6ac77c69a109d6684215b548f532286308005243/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c61726176656c2d2532334646324432302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/b80542ddb7afbc70d9f88eeb6ac77c69a109d6684215b548f532286308005243/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c61726176656c2d2532334646324432302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465" alt="Laravel" data-canonical-src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" style="max-width: 100%;"></a>
   
