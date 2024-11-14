@@ -13,13 +13,19 @@
   <br>
 </h3>
 
-```
-Olá! 👋
+<p>Olá! 👋</p>
 
-Sou Rafael Fernandes, desenvolvedor Full-Stack de 25 anos, formado em Análise e Desenvolvimento de Sistemas. Tenho experiência no desenvolvimento de soluções robustas e escaláveis, utilizando stacks como PHP, Laravel, VueJS, NodeJS, MySQL, entre outras.
+<p>Meu nome é <strong>Rafael Fernandes</strong>, tenho 25 anos e sou <strong>desenvolvedor Full-Stack</strong>, formado em <strong>Análise e Desenvolvimento de Sistemas</strong>. Tenho experiência no desenvolvimento de soluções robustas e escaláveis, utilizando stacks como PHP, Laravel, VueJS, NodeJS, MySQL, entre outras.
 
-Ao longo da minha carreira, tive a oportunidade de contribuir para empresas como Exército Brasileiro, BigBang Digital, Bamaq Consórcio e BTS Empreendimentos, onde participei de projetos desafiadores, liderando e colaborando no desenvolvimento de sistemas e aplicativos, sempre com foco em boas práticas de codificação, performance e entregas ágeis.
-```
+<p>Ao longo da minha carreira, tive a oportunidade de contribuir para empresas como <a
+href="https://www.eb.mil.br/" target="_blank"><strong>Exército Brasileiro</strong></a>,
+<a href="https://bigbangdigital.com.br/" target="_blank"><strong>BigBang Digital</strong></a>,
+<a href="https://www.bamaqconsorcio.com.br/" target="_blank"><strong>Bamaq Consórcio</strong></a> e
+<a href="https://www.btsproperties.com.br/" target="_blank"><strong>BTS Empreendimentos</strong></a>, onde
+participei de projetos desafiadores, liderando e colaborando no
+desenvolvimento de sistemas e aplicativos, sempre com foco em boas práticas de codificação, performance e
+entregas ágeis.
+</p>
 
 ##
 
