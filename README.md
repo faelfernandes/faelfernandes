@@ -18,7 +18,8 @@ Olá! 👋
 
 Sou Rafael Fernandes, desenvolvedor Full-Stack de 25 anos, formado em Análise e Desenvolvimento de Sistemas. Tenho experiência no desenvolvimento de soluções robustas e escaláveis, utilizando stacks como PHP, Laravel, VueJS, NodeJS, MySQL, entre outras.
 
-Ao longo da minha carreira, tive a oportunidade de contribuir para empresas como Exército Brasileiro, BigBang Digital, Bamaq Consórcio e BTS Empreendimentos, onde participei de projetos desafiadores, liderando e colaborando no desenvolvimento de sistemas e aplicativos, sempre com foco em boas práticas de codificação, performance e entregas ágeis.
+Ao longo da minha carreira, tive a oportunidade de contribuir para empresas como Exército Brasileiro, BigBang Digital, 
+Bamaq Consórcio e BTS Empreendimentos, onde participei de projetos desafiadores, liderando e colaborando no desenvolvimento de sistemas e aplicativos, sempre com foco em boas práticas de codificação, performance e entregas ágeis.
 ```
 
 ##
