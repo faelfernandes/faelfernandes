@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<p>Meu nome é <strong>Rafael Fernandes</strong>, tenho 25 anos e sou <strong>desenvolvedor Full-Stack</strong>, formado em <strong>Análise e Desenvolvimento de Sistemas</strong>. Tenho experiência no desenvolvimento de soluções robustas e escaláveis, utilizando stacks como PHP, Laravel, VueJS, NodeJS, MySQL, entre outras.
+<p>Meu nome é <strong>Rafael Fernandes</strong>, tenho 26 anos e sou <strong>desenvolvedor Full-Stack</strong>, formado em <strong>Análise e Desenvolvimento de Sistemas</strong>. Tenho experiência no desenvolvimento de soluções robustas e escaláveis, utilizando stacks como PHP, Laravel, VueJS, NodeJS, PostgreSQL/MySQL, entre outras.
 
 <p>Ao longo da minha carreira, tive a oportunidade de contribuir para empresas como <a
 href="https://www.eb.mil.br/" target="_blank"><strong>Exército Brasileiro</strong></a>,
